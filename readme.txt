@@ -6,5 +6,5 @@ git is a version contral system
 
 Creating a new branch is quick.
 
-
+reating a new branch is quick AND simple.
 
